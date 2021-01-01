@@ -1,2 +1,2 @@
 # NLP_with_TensorFlow
-Natural_Language_Processing_using_Tensorflow
+Natural Language Processing using Tensorflow with Convolution and LSTM layers
